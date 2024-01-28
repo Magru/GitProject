@@ -5,7 +5,6 @@
 
 ## Guidelines
 
-123
 1. Fork this repo and clone your forked repo locally. **Make sure you fork ALL branches, not only `main`**
 2. Answer the below questions, commit your results and push them (make sure you push all the involved branches).
 3. Check GitHub Actions **in your forked repo** (you may need to enable it) for test results. Make sure you pass the automatic tests of the **Students Presubmit Fork Tests** workflow. 
